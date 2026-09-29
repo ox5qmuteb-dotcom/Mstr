@@ -2,7 +2,7 @@
 
 <img src="./docs/img/banner.png" alt="Univer SDK" width="800" />
 
-**The Office Harness for AI Agents**
+**The Office Moteb for AI Agents**
 
 Spreadsheets · Documents · Presentations · Bases · Boards · PDFs
 
